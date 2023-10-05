@@ -1,4 +1,7 @@
-### Hi, i'am Pedro Lucas
+### Ola, Sou Pedro Andrade  
+### Aluno da Universidade Federal Rural do Semi-Árido (UFERSA)
+### 1º periodo de BTI
+
 
 <div align="center">
   <h2>My languages on GitHub</h2>
