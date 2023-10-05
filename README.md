@@ -1,7 +1,7 @@
-### Ola, Sou Pedro Andrade  
-### Aluno da Universidade Federal Rural do Semi-Árido (UFERSA)
-## 1º periodo de BTI
-turma 3
+Ola, Sou Pedro Andrade  
+Aluno da Universidade Federal Rural do Semi-Árido (UFERSA)
+1º periodo de BTI
+
 
 
 <div align="center">
